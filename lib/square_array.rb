@@ -5,5 +5,5 @@ while counter < numbers.length()
 new_array.push(numbers[counter] * numbers [counter])
 counter += 1 
 end
-return
+return new_array
 end
